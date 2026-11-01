@@ -28,40 +28,7 @@ This is the official portfolio and professional showcase for **Suman Kumar Das**
 
 ---
 
-## 🛠️ Tech Stack & Structure
 
-```
-sumankumardas.github.io/
-├── index.html              # Main portfolio landing page
-├── resume.html             # Standalone ATS printable resume page
-├── README.md               # Repository documentation
-├── assets/
-│   ├── css/
-│   │   └── style.css       # Custom styles, glassmorphism, animations, print media
-│   ├── js/
-│   │   └── main.js         # Theme toggle, filter tabs, modal, copy to clipboard
-│   └── img/
-│       ├── avatar.svg      # Profile vector illustration
-│       └── favicon.svg     # SKD vector favicon
-```
 
----
-
-## 🌐 How to Enable GitHub Pages
-
-1. Push all changes to the `main` branch:
-   ```bash
-   git add .
-   git commit -m "Build modern GitHub Pages portfolio"
-   git push origin main
-   ```
-2. In your GitHub repository settings:
-   - Navigate to **Settings** > **Pages**.
-   - Under **Build and deployment** > **Source**, select **Deploy from a branch**.
-   - Select the branch: `main` and folder: `/ (root)`.
-   - Click **Save**.
-3. Your site will be published at `https://sumandfs.github.io/` or `https://sumankumardas.github.io/`.
-
----
 
 © 2026 Suman Kumar Das. All rights reserved.
