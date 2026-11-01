@@ -1,150 +1,90 @@
-<!-- PROFILE HEADER -->
+Act as a senior GitHub portfolio engineer, UI designer and automation developer.
 
-<div align="center">
+REFERENCE DESIGN:
+https://github.com/JyotiPrakashMallick
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1D4ED8&height=8" width="100%" />
+I want to recreate the same overall premium GitHub engineering portfolio experience for my own professional profile, using my own branding and technical background.
 
-# SUMAN KUMAR DAS
+MY DETAILS:
 
-### SENIOR .NET FULL STACK DEVELOPER
+Name: Suman Kumar Das
+GitHub: https://github.com/sumandfs
+Experience: 7.8+ years
+Current Employer: Tata Consultancy Services
+Professional Role: Senior .NET Full Stack Developer
 
-**C# · ASP.NET Core · ASP.NET MVC · React.js · SQL Server · Azure**
+TECHNOLOGY STACK:
+- C#
+- .NET Framework
+- ASP.NET MVC
+- ASP.NET Core
+- ASP.NET Core Web API
+- ADO.NET
+- Entity Framework (only where applicable)
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery
+- SQL Server
+- Azure
+- IIS
+- Git
+- GitHub
+- Azure DevOps
+- GitHub Copilot
 
-Building enterprise applications, scalable APIs and modern web experiences.
+DESIGN REQUIREMENTS:
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/sumandfs/sumankumardas.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-kumar-das-9866311b6)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumandfs)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dassumandas1991@gmail.com)
+Study the reference GitHub profile carefully.
 
-</div>
+Recreate its design approach, including:
 
----
+1. Premium engineering-style hero section with large typography.
+2. Professional name and role.
+3. Portfolio, LinkedIn, Résumé and Profile navigation links.
+4. Last updated / current focus status bar.
+5. Professional introduction.
+6. Engineering achievements and experience highlights.
+7. Project timeline with project descriptions and status.
+8. Architecture and application engineering visualizations.
+9. GitHub activity dashboard.
+10. Technology stack with professional icons.
+11. Professional closing statement.
 
-## 👨‍💻 About Me
+VISUAL DESIGN:
+- Dark navy and electric blue theme.
+- Clean typography.
+- Professional engineering aesthetic.
+- Responsive layout within GitHub Markdown limitations.
+- Custom SVG graphics and visual components.
+- No ordinary collection of badges as the primary design.
+- Avoid generic README templates.
 
-I'm a Senior .NET Developer with **7.8+ years of professional experience** in developing, maintaining and supporting enterprise web applications.
+AUTOMATION:
+- Use GitHub Actions for scheduled refreshes where useful.
+- Use GitHub API for genuine repository and contribution data.
+- Generate SVG visualizations where appropriate.
+- Never fabricate statistics, achievements or contribution numbers.
 
-My experience includes backend development, database integration, REST API development, application troubleshooting and production support.
+PROJECTS:
+1. Employee Management System:
+   React.js + ASP.NET Core Web API + C# + ADO.NET + SQL Server.
+2. Enterprise Business Application:
+   ASP.NET + C# + SQL Server + Web Services + Azure.
+3. Developer Portfolio:
+   GitHub Pages.
 
-- 💼 Currently working at **Tata Consultancy Services (TCS)**.
-- 🏗️ Experienced in enterprise application development and three-tier architecture.
-- ⚙️ Backend development using C#, ASP.NET MVC, ASP.NET Core and Web API.
-- ⚛️ Frontend development using React.js, JavaScript, HTML, CSS and Bootstrap.
-- 🗄️ Database development using SQL Server, ADO.NET and Stored Procedures.
-- ☁️ Working with Azure, IIS, Git and Azure DevOps.
-- 🤖 Exploring AI-assisted software development with GitHub Copilot.
+IMPORTANT:
+- Inspect the existing repository first.
+- Build a clean folder structure using assets, scripts, preview and .github/workflows where appropriate.
+- Create a professional README.md.
+- Keep all links valid.
+- Do not claim skills or achievements that are not verified.
+- Do not claim 4 years of React professional experience unless supported by actual experience.
+- Do not copy the reference developer's content, statistics or personal information.
+- Do not modify my separate sumankumardas.github.io repository.
+- Do not push changes to GitHub without my approval.
 
-**My engineering focus:** Writing maintainable code, designing reliable APIs, optimizing SQL queries and delivering business-focused software solutions.
-
----
-
-## 🧰 Technology Stack
-
-### Backend Engineering
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square)
-![Web API](https://img.shields.io/badge/REST_API-00599C?style=flat-square)
-
-### Frontend Engineering
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-
-### Database & Cloud
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-### Tools & Development
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Engineering Projects
-
-### 01. Employee Management System
-
-**React.js | ASP.NET Core Web API | C# | ADO.NET | SQL Server**
-
-A full-stack application focused on employee management and CRUD operations.
-
-- React-based frontend.
-- ASP.NET Core REST API.
-- Layered architecture with business and data access layers.
-- SQL Server stored procedures.
-- JWT-based authentication implementation.
-
-### 02. Enterprise Application – Business Data Integration
-
-**ASP.NET | C# | SQL Server | Web Services | Azure**
-
-Enterprise application development and maintenance involving business data integration and reporting requirements.
-
-- Three-tier application architecture.
-- Web Services integration.
-- SQL Server stored procedures and SQL Agent jobs.
-- Production troubleshooting and application support.
-
-### 03. Developer Portfolio
-
-**HTML | CSS | JavaScript | GitHub Pages**
-
-A professional portfolio showcasing my technical skills, projects and software development journey.
-
-[View Portfolio Repository](https://github.com/sumandfs/sumankumardas.github.io)
-
----
-
-## 📊 GitHub Engineering Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sumandfs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumandfs&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=sumandfs&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- Building full-stack applications using React.js and ASP.NET Core.
-- Improving API design, security and performance.
-- Strengthening SQL Server query optimization.
-- Exploring Azure cloud services and modern development practices.
-- Using AI coding assistants to improve developer productivity.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, engineering teams and technology professionals.
-
-<div align="center">
-
-**Let's build something meaningful together.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-kumar-das-9866311b6)
-
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dassumandas1991@gmail.com)
-
----
-
-*Engineering with purpose. Learning continuously. Building for impact.*
-
-</div>
+First show me the proposed architecture and implementation plan. Then implement the complete portfolio after approval.
