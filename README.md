@@ -1,99 +1,148 @@
-Architectural Inspection & Portfolio Design Proposal
+<div align="center">
 
-Target Repository: sumandfs.github.io
-Profile: Suman Kumar Das — Senior .NET Full Stack Developer & Tech Lead (7.8 Years Experience)
-Host Platform: GitHub Pages
+<img src="assets/hero.svg" alt="Suman Kumar Das — Senior .NET Full Stack Developer" width="100%"/>
 
-1. Project Inspection & Current Architecture Audit
-Directory Tree & File Inventory
-c:\Users\FCI\Downloads\Githubio\sumankumardas.github.io\
-├── index.html                  # Main portfolio landing page (~95 KB)
-├── resume.html                 # Dedicated printable ATS resume (~12 KB)
-├── README.md                   # Repository documentation & GitHub Pages deployment guide
-├── .gitignore                  # Standard web & IDE ignores
-├── .postqode/                  # Local editor/IDE configuration
-└── assets/
-    ├── css/
-    │   └── style.css           # Glassmorphism, CSS variables, print styles, animations (~3.7 KB)
-    ├── js/
-    │   └── main.js             # Theme toggle, scrollspy, filter tabs, copy-to-clipboard (~9.3 KB)
-    └── img/
-        ├── avatar.svg          # Custom developer illustration with floating C#/.NET/Azure badges (~4.5 KB)
-        └── favicon.svg         # SKD brand favicon (~0.6 KB)
-Framework & Dependencies
-Runtime Architecture: Native Client-Side Static Website (Zero build step; directly served by GitHub Pages' Jekyll/Nginx layer).
-CSS Framework: Tailwind CSS via CDN (cdn.tailwindcss.com) with custom extended theme colors (brand, dark) and dark-mode configuration.
-Custom Styling: assets/css/style.css containing:
-Glassmorphic backdrop filters (backdrop-blur).
-Animated gradient text and glow badges.
-Custom scrollbar styling.
-Print media rules for 1-click PDF/CV export.
-Iconography: Font Awesome 6.5.1 CDN (fa-brands, fa-solid, fa-regular).
-Typography: Google Fonts (Inter for UI & body text; JetBrains Mono for code/metrics).
-JavaScript Engine: Native ES6+ in assets/js/main.js (no heavy libraries, zero bundle overhead):
-Dark/Light mode switcher with localStorage persistence.
-ScrollSpy active link tracking.
-Animated category filtering for projects.
-Clipboard copy utility with feedback toast.
-Resume modal controller.
-Direct mailto contact form generator.
-Current Implementation Assessment
-Feature	Current Status	Observation
-Hero & Value Prop	✅ Present	Highlights 7.8 yrs experience, Team Lead @ TCS, C#, ASP.NET, SQL Server
-About Me & Pillars	✅ Present	4 architectural pillars (Enterprise .NET, SAP Data Pipeline, SQL Tuning, CI/CD)
-Skills Matrix	✅ Present	Categorized into Backend, Databases, Cloud/DevOps, Frontend, Practices, Tools
-Experience Timeline	✅ Present	Full history across TCS, ITC Infotech, CHETU, and CSM Technologies
-Projects Showcase	✅ Present	6 enterprise projects with interactive filter tabs
-GitHub Activity	⚠️ Missing	Needs dynamic GitHub stats, pinned repos, and language distribution
-ASP.NET Core & AI	⚠️ Needs Emphasis	ASP.NET Core and GitHub Copilot should have higher visual prominence
-Contact & Connect	✅ Present	Email/Phone 1-click copy, LinkedIn profile link, and inquiry form
-ATS Printable CV	✅ Present	Available via modal and standalone resume.html
-2. Recommended Implementation Approach
+<br/>
 
-For a GitHub Pages developer portfolio, we recommend the Ultra-Optimized Modern Static Web Architecture (Zero-Build Vanilla JS + Tailwind + CSS Custom Properties):
+<a href="https://github.com/sumandfs"><img src="https://img.shields.io/badge/GitHub-sumandfs-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/suman-kumar-das-9866311b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dassumandas1991@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
-Why This Approach is Superior to an NPM/Webpack/Vite Build:
-Instant GitHub Pages Deployment: Committing files directly serves them globally over GitHub's Fastly CDN with 0% risk of GitHub Actions build failures, node version mismatches, or broken bundler dependencies.
-Lightning Performance (100/100 Lighthouse): Instant First Contentful Paint (<0.4s) with zero JavaScript hydration delays.
-Effortless Maintenance: Anyone reviewing your GitHub repository can immediately see clean, readable, standard web code.
-Rich Interactivity: Everything from dark/light mode toggling, interactive project filtering, live GitHub API integrations, and printable CV modals runs smoothly with vanilla JavaScript.
-3. Proposed Premium Dark-Themed Design System
-🎨 Color Palette & Aesthetics
-Canvas / Deep Background: #090D16 — Rich obsidian black with subtle radial gradient glows.
-Card Surfaces: #0F172A / #131C31 with semi-transparent glassmorphism (backdrop-blur-xl, border-white/10).
-Primary Accent: #6366F1 → #4F46E5 (Electric Indigo / Violet).
-Secondary Accent: #06B6D4 → #38BDF8 (Cyan / Azure Cloud).
-Status Indicators: #10B981 (Emerald Green) with a glowing pulse indicator ("Open to Senior .NET / Lead Roles").
-Text Hierarchy: High-contrast crisp white (#FFFFFF) for primary headings, slate-300 (#CBD5E1) for body copy, and indigo-300/mono for tech chips.
-4. Proposed Structure & Section Plan
-Key Sections to Add & Enhance:
+</div>
 
-GitHub Activity & Open Source Section (NEW):
+---
 
-Dynamic GitHub profile statistics card connected to sumandfs (total repositories, contributions, stars).
-Top languages breakdown highlighting C#, JavaScript, SQL, HTML/CSS.
-Pinned repository showcase cards with live link to sumankumardas.github.io.
-Direct link badge to your GitHub profile: https://github.com/sumandfs.
+### ENGINEERING PROFILE
 
-Refined Technical Skills Matrix:
+I’m a .NET developer with **7.8 years of experience** building, maintaining and supporting enterprise web applications. My work focuses on backend development, API integration, SQL Server data solutions, production troubleshooting and dependable business workflows.
 
-Elevate ASP.NET Core alongside C# and ASP.NET MVC.
-Prominently feature GitHub Copilot under developer productivity tools.
-Ensure clean visual progress bars and tags for C#, SQL Server, Azure DevOps, React.js, and Web API.
+I work primarily with **C#, ASP.NET, ASP.NET MVC, Web API and SQL Server**, and I’m expanding my full-stack capabilities with **ASP.NET Core and React**. I value practical architecture, readable code, reliable delivery and solving problems that matter to the business.
 
-Projects Showcase:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Retain all 6 key projects from your resume with rich architectural details (MyAssignments @ TCS, Kone MES @ ITC Infotech, Veptas Loan Analytics @ CHETU, TMIS Odisha, I3MS Odisha, and Bihar PHED).
-Interactive category filter tabs for easy browsing.
+**CORE ENGINEERING**
 
-Contact & Resume Integration:
+- Enterprise application development
+- REST API and web-service integration
+- SQL queries and stored procedures
+- Three-tier application architecture
+- Production support and troubleshooting
+- Git-based development workflows
 
-1-click clipboard copy for dassumandas1991@gmail.com and +91 7978389631.
-Direct link to your LinkedIn Profile
-.
-Integrated ATS resume preview modal + dedicated resume.html page.
-5. Next Step
+</td>
+<td width="50%" valign="top">
 
-As requested, no files have been modified or deleted.
+**CURRENT FOCUS**
 
-Please let me know if this architectural plan and section layout meet your expectations. Upon your approval, I will proceed to integrate the new GitHub Activity section, update the ASP.NET Core / GitHub Copilot badges, and polish the design system!
+- ASP.NET Core Web API
+- React application development
+- JWT authentication and authorization
+- Clean separation of API, business and data layers
+- SQL Server performance and query design
+- GitHub Copilot-assisted development
+
+</td>
+</tr>
+</table>
+
+---
+
+### ENGINEERING SNAPSHOT
+
+<div align="center">
+
+<img src="assets/profile-stats.svg" alt="Live public GitHub profile statistics" width="100%"/>
+
+</div>
+
+<sub>Statistics are generated from publicly accessible GitHub data by the scheduled workflow in this repository. They reflect public repository data, not private work history or total professional output.</sub>
+
+---
+
+### SELECTED WORK
+
+| Project | Context | Technology | Status |
+|---|---|---|---|
+| **MyAssignments** | Enterprise application supporting additional Marketing and Sales reporting attributes, including SAP-integrated data flows | C#, ASP.NET, SQL Server, Web Services, IIS, Azure VMs | Professional experience |
+| **KONE MES** | Manufacturing execution system project | .NET technologies, SQL Server | Professional experience |
+| **Veptas Loan Analytics** | Loan analytics application | .NET technologies, SQL Server | Professional experience |
+| **TMIS Odisha** | Government information management project | .NET technologies, SQL Server | Professional experience |
+| **I3MS Odisha** | Government information management project | .NET technologies, SQL Server | Professional experience |
+| **Bihar PHED** | Public health engineering department project | .NET technologies, SQL Server | Professional experience |
+| **Employee Management System** | Personal full-stack application demonstrating employee CRUD workflows | React, ASP.NET Core Web API, ADO.NET, SQL Server | In progress |
+
+<sub>Project descriptions are intentionally high-level. Client-confidential implementation details, internal URLs and business data are not published here.</sub>
+
+---
+
+### TECHNOLOGY STACK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**BACKEND & FRAMEWORKS**
+
+`C#` ` .NET Framework` `ASP.NET`  
+`ASP.NET MVC` `ASP.NET Core`  
+`Web API` `ADO.NET` `Entity Framework Core`
+
+**DATA & INTEGRATION**
+
+`SQL Server` `T-SQL` `Stored Procedures`  
+`Joins` `Indexes` `Query Optimization`  
+`Web Services` `REST`
+
+</td>
+<td width="50%" valign="top">
+
+**FRONTEND**
+
+`React.js` `JavaScript` `HTML5`  
+`CSS3` `Bootstrap` `jQuery`
+
+**CLOUD, DELIVERY & TOOLS**
+
+`Azure VMs` `IIS` `Azure DevOps`  
+`Git` `GitHub` `GitHub Copilot`  
+`Visual Studio` `VS Code`
+
+</td>
+</tr>
+</table>
+
+---
+
+### LANGUAGE DISTRIBUTION
+
+<div align="center">
+
+<img src="assets/languages.svg" alt="Language distribution across public repositories" width="100%"/>
+
+</div>
+
+<sub>Based on GitHub's language statistics for public repositories. This describes code published on GitHub and is not a measure of professional experience.</sub>
+
+---
+
+### HOW I APPROACH ENGINEERING
+
+- **Understand the business flow** before changing application behaviour.
+- **Keep responsibilities separated** across presentation, business and data layers.
+- **Make database work deliberate** with clear queries, suitable indexes and stored procedures where appropriate.
+- **Troubleshoot systematically** using logs, SQL diagnostics and application-level investigation.
+- **Deliver collaboratively** through Git, code reviews and Azure DevOps workflows.
+
+---
+
+<div align="center">
+
+**Building reliable enterprise software, one practical improvement at a time.**
+
+[GitHub](https://github.com/sumandfs) · [LinkedIn](https://www.linkedin.com/in/suman-kumar-das-9866311b6/) · [Email](mailto:dassumandas1991@gmail.com)
+
+<sub>Profile statistics refresh automatically through GitHub Actions.</sub>
+
+</div>
