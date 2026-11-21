@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Enterprise .NET application and system integration architecture</title>
+<desc id="desc">Conceptual three-tier ASP.NET application using C sharp business logic, ADO.NET, SQL Server and WCF ASMX integration with SAP BW and SAP ECC.</desc>
+<rect width="1200" height="280" rx="14" fill="#f8fbff" stroke="#d7e2ef"/>
+<text x="28" y="34" fill="#087e9b" font-family="Segoe UI,Arial" font-size="11" font-weight="800" letter-spacing="2">ENTERPRISE APPLICATION ENGINEERING</text>
+<text x="28" y="61" fill="#172334" font-family="Segoe UI,Arial" font-size="19" font-weight="700">Three-tier .NET application · service integration · relational data</text>
+<g font-family="Segoe UI,Arial">
+<rect x="28" y="91" width="220" height="125" rx="11" fill="#fff" stroke="#cbd8e6"/><rect x="28" y="91" width="220" height="7" rx="4" fill="#0969da"/>
+<text x="48" y="127" fill="#087e9b" font-size="10" font-weight="800" letter-spacing="1.2">PRESENTATION</text><text x="48" y="157" fill="#1e293b" font-size="18" font-weight="700">ASP.NET</text><text x="48" y="181" fill="#64748b" font-size="12">Web application · IIS</text><text x="48" y="199" fill="#64748b" font-size="11">User workflows</text>
+<path d="M250 153h34m-9-7 9 7-9 7" fill="none" stroke="#7a91ac" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="288" y="91" width="220" height="125" rx="11" fill="#fff" stroke="#cbd8e6"/><rect x="288" y="91" width="220" height="7" rx="4" fill="#2563eb"/>
+<text x="308" y="127" fill="#087e9b" font-size="10" font-weight="800" letter-spacing="1.2">BUSINESS LOGIC</text><text x="308" y="157" fill="#1e293b" font-size="18" font-weight="700">C# · .NET</text><text x="308" y="181" fill="#64748b" font-size="12">Application services</text><text x="308" y="199" fill="#64748b" font-size="11">Business rules</text>
+<path d="M510 153h34m-9-7 9 7-9 7" fill="none" stroke="#7a91ac" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="548" y="91" width="220" height="125" rx="11" fill="#fff" stroke="#cbd8e6"/><rect x="548" y="91" width="220" height="7" rx="4" fill="#0d9488"/>
+<text x="568" y="127" fill="#087e9b" font-size="10" font-weight="800" letter-spacing="1.2">DATA ACCESS</text><text x="568" y="157" fill="#1e293b" font-size="18" font-weight="700">ADO.NET</text><text x="568" y="181" fill="#64748b" font-size="12">Stored procedures</text><text x="568" y="199" fill="#64748b" font-size="11">Views · T-SQL</text>
+<path d="M770 153h34m-9-7 9 7-9 7" fill="none" stroke="#7a91ac" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="808" y="91" width="160" height="125" rx="11" fill="#fff" stroke="#cbd8e6"/><rect x="808" y="91" width="160" height="7" rx="4" fill="#cc2927"/>
+<text x="828" y="127" fill="#087e9b" font-size="10" font-weight="800" letter-spacing="1.2">DATABASE</text><text x="828" y="157" fill="#1e293b" font-size="17" font-weight="700">SQL Server</text><text x="828" y="181" fill="#64748b" font-size="12">Queries · validation</text><text x="828" y="199" fill="#64748b" font-size="11">Reporting data</text>
+<path d="M398 221v22h494v-22" fill="none" stroke="#7a91ac" stroke-width="1.7" stroke-dasharray="5 4"/>
+<rect x="982" y="91" width="190" height="125" rx="11" fill="#fff" stroke="#cbd8e6"/><rect x="982" y="91" width="190" height="7" rx="4" fill="#e0a11b"/>
+<text x="1002" y="127" fill="#087e9b" font-size="10" font-weight="800" letter-spacing="1.2">INTEGRATION</text><text x="1002" y="157" fill="#1e293b" font-size="17" font-weight="700">WCF / ASMX</text><text x="1002" y="181" fill="#64748b" font-size="12">SAP BW · SAP ECC</text><text x="1002" y="199" fill="#64748b" font-size="11">SOAP web services</text>
+</g>
+<text x="28" y="260" fill="#64748b" font-family="Segoe UI,Arial" font-size="11">Conceptual overview based on the enterprise application and integration work described in my professional experience.</text>
+</svg>
