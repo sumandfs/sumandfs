@@ -62,6 +62,34 @@ Worked on application development and maintenance across PHED Bihar, TMIS Odisha
 
 ---
 
+## Stack
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/csharp.svg?v=20261122" width="108" height="82" alt="C#" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/dotnet.svg?v=20261122" width="108" height="82" alt=".NET" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/javascript.svg?v=20261122" width="108" height="82" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/html5.svg?v=20261122" width="108" height="82" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/css3.svg?v=20261122" width="108" height="82" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/bootstrap.svg?v=20261122" width="108" height="82" alt="Bootstrap" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/jquery.svg?v=20261122" width="108" height="82" alt="jQuery" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/react.svg?v=20261122" width="108" height="82" alt="React.js" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/sqlserver.svg?v=20261122" width="108" height="82" alt="SQL Server" />
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/mysql.svg?v=20261122" width="108" height="82" alt="MySQL" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/oracle.svg?v=20261122" width="108" height="82" alt="Oracle" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/azure.svg?v=20261122" width="108" height="82" alt="Azure" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/azuredevops.svg?v=20261122" width="108" height="82" alt="Azure DevOps" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/git.svg?v=20261122" width="108" height="82" alt="Git" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/github.svg?v=20261122" width="108" height="82" alt="GitHub" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/visualstudio.svg?v=20261122" width="108" height="82" alt="Visual Studio" />
+<img src="https://raw.githubusercontent.com/sumandfs/sumankumardas.github.io/main/assets/stack-tiles/vscode.svg?v=20261122" width="108" height="82" alt="VS Code" />
+</p>
+
+**Frameworks &amp; integration:** ASP.NET · ASP.NET MVC · Web API · WCF · ASMX · ADO.NET · VB.NET · SOAP / REST
+
+**Database &amp; delivery:** T-SQL · Stored Procedures · Views · Query Optimization · IIS · Azure DevOps · CI/CD · Git · TFS · SVN · SSMS · Jira · ServiceNow
+
 ## Technical skills
 
 | Area | Technologies |
