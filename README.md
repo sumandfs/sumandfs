@@ -1,146 +1,107 @@
-
+<div align="center">
 
 # SUMAN KUMAR DAS
+### Senior .NET Full Stack Developer
 
-### SENIOR .NET FULL STACK DEVELOPER
+**C# · ASP.NET MVC · Web API · WCF / ASMX · ADO.NET · SQL Server · Azure DevOps**
 
-**C# · ASP.NET Core · ASP.NET MVC · React.js · SQL Server · Azure**
+Building and supporting enterprise applications, business integrations and reliable web solutions.
 
-Building enterprise applications, scalable APIs and modern web experiences.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/sumandfs/sumankumardas.github.io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B72E7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sumandfs.github.io/sumankumardas.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-kumar-das-9866311b6)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumandfs)
+[![Résumé](https://img.shields.io/badge/RESUME-172554?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sumandfs.github.io/sumankumardas.github.io/assets/Suman_Kumar_Das_Resume.pdf)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dassumandas1991@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Profile
 
-I'm a Senior .NET Developer with **7.8+ years of professional experience** in developing, maintaining and supporting enterprise web applications.
+Senior .NET Full Stack Developer with **7.8 years of professional experience** developing, enhancing and supporting enterprise web applications. My core experience is in **C#, ASP.NET, ASP.NET MVC, Web API, WCF/ASMX services, ADO.NET and Microsoft SQL Server**.
 
-My experience includes backend development, database integration, REST API development, application troubleshooting and production support.
+I work across application development, SAP system integration, SQL query and stored-procedure optimization, defect resolution, production support, testing and Azure DevOps deployment workflows. I currently work at **Tata Consultancy Services (TCS)** in Bengaluru and lead a team of seven developers.
 
-- 💼 Currently working at **Tata Consultancy Services (TCS)**.
-- 🏗️ Experienced in enterprise application development and three-tier architecture.
-- ⚙️ Backend development using C#, ASP.NET MVC, ASP.NET Core and Web API.
-- ⚛️ Frontend development using React.js, JavaScript, HTML, CSS and Bootstrap.
-- 🗄️ Database development using SQL Server, ADO.NET and Stored Procedures.
-- ☁️ Working with Azure, IIS, Git and Azure DevOps.
-- 🤖 Exploring AI-assisted software development with GitHub Copilot.
+## Professional experience
 
-**My engineering focus:** Writing maintainable code, designing reliable APIs, optimizing SQL queries and delivering business-focused software solutions.
+| Period | Organization | Role | Project / focus |
+|---|---|---|---|
+| **Mar 2022 – Present** | **Tata Consultancy Services** · Bengaluru | System Engineer (.NET Developer) | MyAssignments · Enterprise application and SAP BW/ECC integration |
+| **Apr 2021 – Jan 2022** | **ITC Infotech India Ltd** · Pune | Associate IT Consultant | KONE MES · DELMIA Apriso manufacturing execution |
+| **Oct 2020 – Feb 2021** | **CHETU India Pvt. Ltd.** · Noida | Software Engineer | Veptas Technology MGLD · Predictive analytics |
+| **Jul 2018 – Sep 2020** | **CSM Technologies** · Bhubaneswar | Software Engineer | PHED Bihar, TMIS Odisha and I3MS Odisha |
 
----
+## Selected project experience
 
-## 🧰 Technology Stack
+### MyAssignments — TCS
+**C# · .NET Framework · ASP.NET · ADO.NET · WCF/ASMX · SQL Server 2019 · IIS · Azure DevOps**
 
-### Backend Engineering
+An enterprise web application that manages sales-related attributes used for reporting and analytics. It follows a three-tier architecture and integrates with SAP BW and SAP ECC for downstream reporting data flows.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square)
-![Web API](https://img.shields.io/badge/REST_API-00599C?style=flat-square)
+- Develop and maintain application modules using C# and ASP.NET.
+- Build and consume web services for system integration.
+- Maintain SQL queries, stored procedures and views; investigate data issues and query performance.
+- Support front-end functionality with HTML, CSS, JavaScript and jQuery.
+- Troubleshoot defects and production issues, perform unit testing and support UAT.
+- Support build, deployment and work-tracking activities through Azure DevOps; manage source code with Git/TFS.
 
-### Frontend Engineering
+### KONE Manufacturing Execution System — ITC Infotech
+**DELMIA Apriso · SQL Server · Regression Testing · UAT**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+Supported quality activities for a manufacturing execution system by preparing regression and UAT scripts, validating data with SQL queries, analyzing defects and collaborating with developers and project managers.
 
-### Database & Cloud
+### Veptas Technology MGLD — CHETU
+**C# · ASP.NET · SQL Server · Technical Design**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+Maintained C# and ASP.NET application modules for a predictive analytics platform. Contributed to unit testing and technical design documentation, including HLD, LLD, ER and sequence diagrams.
 
-### Tools & Development
+### Government applications — CSM Technologies
+**ASP.NET · C# · VB.NET · ASP.NET MVC · SQL Server**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+Worked on application development and maintenance across PHED Bihar, TMIS Odisha and I3MS Odisha.
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Technical skills
 
-### 01. Employee Management System
+| Area | Technologies |
+|---|---|
+| **Languages** | C#, VB.NET, JavaScript, SQL |
+| **Backend & APIs** | ASP.NET, ASP.NET MVC, Web API, WCF, ASMX Web Services, ADO.NET, SOAP, REST |
+| **Frontend** | HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, React.js |
+| **Database** | Microsoft SQL Server, T-SQL, Stored Procedures, Views, Query Optimization; exposure to MySQL and Oracle |
+| **Cloud & delivery** | Azure DevOps, CI/CD, Build Pipelines, Deployment Support, Microsoft Azure, IIS |
+| **Tools & collaboration** | Visual Studio, SSMS, Git, TFS, SVN, Jira, ServiceNow |
+| **Engineering practices** | Three-tier architecture, debugging, unit testing, UAT support, production troubleshooting, HLD / LLD |
 
-**React.js | ASP.NET Core Web API | C# | ADO.NET | SQL Server**
+## Current learning
 
-A full-stack application focused on employee management and CRUD operations.
+I continue to strengthen my JavaScript and React development, modern application design and cloud fundamentals alongside my professional .NET work. Learning exercises are kept separate from production project experience.
 
-- React-based frontend.
-- ASP.NET Core REST API.
-- Layered architecture with business and data access layers.
-- SQL Server stored procedures.
-- JWT-based authentication implementation.
+## Code practice
 
-### 02. Enterprise Application – Business Data Integration
+I use this GitHub profile to document hands-on learning and practical coding exercises.
 
-**ASP.NET | C# | SQL Server | Web Services | Azure**
+- [JavaScript practice repository](https://github.com/sumandfs/Javascript) — fundamentals, examples and coding practice.
+- [Portfolio source code](https://github.com/sumandfs/sumankumardas.github.io) — the source for this portfolio website.
 
-Enterprise application development and maintenance involving business data integration and reporting requirements.
+## Education
 
-- Three-tier application architecture.
-- Web Services integration.
-- SQL Server stored procedures and SQL Agent jobs.
-- Production troubleshooting and application support.
+**Bachelor of Technology — Electronics and Telecommunication Engineering**  
+Balasore College of Engineering and Technology · BPUT, Odisha · 2009–2013 · **CGPA: 7.1/10**
 
-### 03. Developer Portfolio
+## Connect
 
-**HTML | CSS | JavaScript | GitHub Pages**
+I’m interested in senior .NET development opportunities focused on backend engineering, enterprise application development, API and system integration, SQL Server and technical ownership.
 
-A professional portfolio showcasing my technical skills, projects and software development journey.
-
-[View Portfolio Repository](https://github.com/sumandfs/sumankumardas.github.io)
+- **Email:** [dassumandas1991@gmail.com](mailto:dassumandas1991@gmail.com)
+- **LinkedIn:** [linkedin.com/in/suman-kumar-das-9866311b6](https://www.linkedin.com/in/suman-kumar-das-9866311b6)
+- **Portfolio:** [sumandfs.github.io/sumankumardas.github.io](https://sumandfs.github.io/sumankumardas.github.io/)
 
 ---
-
-## 📊 GitHub Engineering Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumandfs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumandfs&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=sumandfs&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- Building full-stack applications using React.js and ASP.NET Core.
-- Improving API design, security and performance.
-- Strengthening SQL Server query optimization.
-- Exploring Azure cloud services and modern development practices.
-- Using AI coding assistants to improve developer productivity.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, engineering teams and technology professionals.
-
-<div align="center">
-
-**Let's build something meaningful together.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-kumar-das-9866311b6)
-
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dassumandas1991@gmail.com)
-
----
-
-*Engineering with purpose. Learning continuously. Building for impact.*
+*Engineering with ownership · Solving practical problems · Learning continuously*
 
 </div>
