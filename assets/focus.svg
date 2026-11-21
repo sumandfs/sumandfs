@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="244" viewBox="0 0 340 244" role="img" aria-labelledby="t">
+<title id="t">Professional focus — enterprise .NET engineering</title>
+<rect x=".5" y=".5" width="339" height="243" rx="15" fill="#f8fbff" stroke="#d8e3ef"/>
+<text x="22" y="33" fill="#087e9b" font-family="Segoe UI,Arial" font-size="10" font-weight="800" letter-spacing="2">ENGINEERING FOCUS</text>
+<text x="22" y="65" fill="#172334" font-family="Segoe UI,Arial" font-size="19" font-weight="750">Building dependable</text>
+<text x="22" y="89" fill="#172334" font-family="Segoe UI,Arial" font-size="19" font-weight="750">enterprise applications</text>
+<line x1="22" y1="109" x2="318" y2="109" stroke="#dce5ee"/>
+<g font-family="Segoe UI,Arial">
+  <text x="22" y="137" fill="#64748b" font-size="11">Application development</text>
+  <text x="318" y="137" fill="#243449" font-size="11" text-anchor="end" font-weight="700">C# · ASP.NET</text>
+  <line x1="22" y1="149" x2="318" y2="149" stroke="#e5ebf2"/>
+  <text x="22" y="174" fill="#64748b" font-size="11">System integration</text>
+  <text x="318" y="174" fill="#243449" font-size="11" text-anchor="end" font-weight="700">WCF · ASMX · SAP</text>
+  <line x1="22" y1="186" x2="318" y2="186" stroke="#e5ebf2"/>
+  <text x="22" y="211" fill="#64748b" font-size="11">Data engineering</text>
+  <text x="318" y="211" fill="#243449" font-size="11" text-anchor="end" font-weight="700">SQL Server · T-SQL</text>
+</g>
+</svg>
