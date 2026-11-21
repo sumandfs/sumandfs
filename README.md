@@ -9,7 +9,7 @@ Building and supporting enterprise applications, business integrations and relia
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B72E7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sumandfs.github.io/sumankumardas.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-kumar-das-9866311b6)
-[![Résumé](https://img.shields.io/badge/RESUME-172554?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sumandfs.github.io/sumankumardas.github.io/assets/Suman_Kumar_Das_Resume.pdf)
+[![Résumé](https://img.shields.io/badge/REQUEST_RESUME-172554?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](mailto:dassumandas1991@gmail.com?subject=Request%20for%20resume)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dassumandas1991@gmail.com)
 
 </div>
