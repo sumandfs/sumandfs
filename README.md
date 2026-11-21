@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sumandfs.github.io/sumankumardas.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sumandfs.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/suman-kumar-das-9866311b6"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dassumandas1991@gmail.com?subject=Request%20for%20resume"><img src="https://img.shields.io/badge/REQUEST%20R%C3%89SUM%C3%89-344054?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Request résumé" /></a>
   <a href="mailto:dassumandas1991@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -58,8 +58,8 @@ A few examples from my professional project experience. The portfolio contains t
 ## Code & portfolio
 
 - [JavaScript practice](https://github.com/sumandfs/Javascript) — fundamentals, examples and coding exercises.
-- [Portfolio source](https://github.com/sumandfs/sumankumardas.github.io) — source code for my personal portfolio website.
-- [Full professional portfolio](https://sumandfs.github.io/sumankumardas.github.io/) — experience, projects, technology stack and education.
+- [Portfolio source](https://github.com/sumandfs/sumandfs.github.io) — source code for my personal portfolio website.
+- [Full professional portfolio](https://sumandfs.github.io/) — experience, projects, technology stack and education.
 
 ## Connect
 
@@ -69,7 +69,7 @@ I’m interested in senior .NET opportunities focused on enterprise application 
   <a href="https://www.linkedin.com/in/suman-kumar-das-9866311b6">LinkedIn</a> ·
   <a href="mailto:dassumandas1991@gmail.com">Email</a> ·
   <a href="https://github.com/sumandfs">GitHub</a> ·
-  <a href="https://sumandfs.github.io/sumankumardas.github.io/">Portfolio</a>
+  <a href="https://sumandfs.github.io/">Portfolio</a>
 </p>
 
 <p align="center"><sub>Build reliable systems · Solve practical problems · Keep learning</sub></p>
