@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Suman Kumar Das — Senior .NET Full Stack Developer</title>
+  <desc id="desc">Professional profile banner focused on enterprise applications, .NET backend engineering, system integration and SQL Server.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1b33"/>
+      <stop offset="1" stop-color="#153b68"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#24c3d9"/>
+      <stop offset="1" stop-color="#4b8df8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect x="0" y="0" width="12" height="280" rx="6" fill="url(#accent)"/>
+  <circle cx="1090" cy="54" r="120" fill="#ffffff" opacity=".035"/>
+  <circle cx="1115" cy="250" r="175" fill="#ffffff" opacity=".025"/>
+  <path d="M875 0 L1200 0 L1200 280 L1050 280 Z" fill="#2f80ed" opacity=".06"/>
+  <text x="66" y="64" fill="#66e5f1" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">SOFTWARE ENGINEERING · BENGALURU, INDIA</text>
+  <text x="64" y="143" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="55" font-weight="750" letter-spacing="-1.5">SUMAN KUMAR DAS</text>
+  <text x="67" y="188" fill="#d9e8fb" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">Senior .NET Full Stack Developer</text>
+  <rect x="66" y="218" width="510" height="1.5" fill="#8db8eb" opacity=".55"/>
+  <text x="66" y="250" fill="#bed3ec" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1">7.8 YEARS  ·  ENTERPRISE APPLICATIONS  ·  SYSTEM INTEGRATION</text>
+  <g transform="translate(1002 107)">
+    <rect width="116" height="116" rx="24" fill="url(#accent)" opacity=".98"/>
+    <text x="58" y="71" text-anchor="middle" fill="#09203c" font-family="Segoe UI,Arial,sans-serif" font-size="37" font-weight="900">.NET</text>
+  </g>
+</svg>
