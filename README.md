@@ -70,17 +70,16 @@ Client source code is proprietary and is not published in these repositories. Th
 
 ### Stack
 
-<img src="assets/stack-grid.svg?v=8" width="100%" alt="Technology logos for C sharp, .NET, SQL Server, JavaScript, HTML5, CSS3, Bootstrap, jQuery, Azure, Azure DevOps, Git, GitHub, Visual Studio, Visual Studio Code and React marked as learning." />
+<img src="assets/stack-grid.svg?v=9" width="100%" alt="Professional technology logos for C sharp, .NET, SQL Server, JavaScript, HTML5, CSS3, Bootstrap, jQuery, Azure, Azure DevOps, Git, GitHub, Visual Studio and Visual Studio Code" />
 
 **Primary professional stack:** C#, .NET Framework, ASP.NET, ASP.NET MVC, Web API, WCF/ASMX, ADO.NET and SQL Server.
 
-**Additional / learning:** JavaScript, jQuery, HTML, CSS, Bootstrap and React.js (learning).
 
 ### Languages
 
 <p>
-<img src="assets/lang/english.svg?v=1" height="52" alt="English" />
-<img src="assets/lang/hindi.svg?v=1" height="52" alt="Hindi" />
+<img src="assets/lang/english.svg?v=2" height="52" alt="English" />
+<img src="assets/lang/hindi.svg?v=2" height="52" alt="Hindi" />
 </p>
 
 ### Education
