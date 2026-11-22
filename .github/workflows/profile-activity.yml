@@ -1,0 +1,37 @@
+name: Refresh GitHub profile activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 0 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/profile-activity.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity-cards
+  cancel-in-progress: false
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate recent and all-time contribution cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: sumandfs
+          cards: overview,momentum,lifetime,composition
+          output-dir: assets/activity
+          themes: light,dark
+          palette: blue
+          commit: true
