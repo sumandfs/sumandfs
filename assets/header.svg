@@ -1,31 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="196" viewBox="0 0 900 196" role="img" aria-labelledby="title desc">
 <title id="title">Suman Kumar Das — Senior .NET Full Stack Developer</title>
-<desc id="desc">Senior .NET Full Stack Developer with 7.8 years of enterprise application development and system integration experience at Tata Consultancy Services in Bengaluru, India.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbfdff"/><stop offset="1" stop-color="#edf4ff"/></linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#087cf0"/><stop offset=".55" stop-color="#4f63e8"/><stop offset="1" stop-color="#8754db"/></linearGradient>
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#9db7d7" stroke-opacity=".12"/></pattern>
-</defs>
-<rect width="1200" height="260" rx="18" fill="url(#bg)"/>
-<rect width="1200" height="260" rx="18" fill="url(#grid)"/>
-<rect x="0" y="0" width="9" height="260" rx="4" fill="url(#accent)"/>
-<circle cx="1080" cy="28" r="160" fill="#2563eb" opacity=".045"/>
-<circle cx="1145" cy="250" r="180" fill="#8754db" opacity=".045"/>
-<text x="54" y="49" fill="#087e9b" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3.2">ENTERPRISE APPLICATIONS · BACKEND ENGINEERING · SYSTEM INTEGRATION</text>
-<text x="52" y="119" fill="#15243a" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.7">Suman Kumar Das</text>
-<rect x="54" y="143" width="610" height="3" rx="1.5" fill="url(#accent)"/>
-<text x="54" y="183" fill="#273c58" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Senior .NET Full Stack Developer</text>
-<text x="55" y="218" fill="#526983" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.3">7.8 YEARS  ·  TATA CONSULTANCY SERVICES  ·  BENGALURU, INDIA</text>
-<g transform="translate(872 48)">
-  <rect width="265" height="164" rx="15" fill="#fff" stroke="#d6e1ef"/>
-  <rect x="16" y="16" width="233" height="31" rx="7" fill="#f1f5fb"/>
-  <circle cx="31" cy="31.5" r="4" fill="#f87171"/><circle cx="45" cy="31.5" r="4" fill="#fbbf24"/><circle cx="59" cy="31.5" r="4" fill="#34d399"/>
-  <text x="20" y="76" fill="#8b5cf6" font-family="Consolas,monospace" font-size="13" font-weight="700">C#</text>
-  <text x="54" y="76" fill="#22364f" font-family="Consolas,monospace" font-size="13">ASP.NET · Web API</text>
-  <line x1="20" y1="91" x2="244" y2="91" stroke="#e3eaf3"/>
-  <text x="20" y="117" fill="#0f9b88" font-family="Consolas,monospace" font-size="13" font-weight="700">DATA</text>
-  <text x="73" y="117" fill="#22364f" font-family="Consolas,monospace" font-size="13">SQL Server · T-SQL</text>
-  <text x="20" y="143" fill="#087cf0" font-family="Consolas,monospace" font-size="13" font-weight="700">INTEGRATION</text>
-  <text x="117" y="143" fill="#22364f" font-family="Consolas,monospace" font-size="13">WCF · ASMX · SAP</text>
-</g>
+<desc id="desc">Enterprise .NET developer focused on backend application engineering, SQL Server and system integration.</desc>
+<rect width="900" height="196" fill="#ffffff"/>
+<rect x="0" y="30" width="4" height="15" rx="2" fill="#0969da"/>
+<text x="18" y="42" fill="#0969da" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">ENTERPRISE .NET ENGINEERING · SYSTEM INTEGRATION · SQL SERVER</text>
+<text x="0" y="111" fill="#1d1d1f" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="700" letter-spacing="-2.1">SUMAN KUMAR DAS</text>
+<line x1="0" y1="132" x2="900" y2="132" stroke="#d5d5da" stroke-width="1"/>
+<text x="0" y="158" fill="#6e6e73" font-family="Consolas,Menlo,monospace" font-size="14">Building and supporting enterprise applications with .NET.</text>
+<rect x="573" y="145" width="3" height="18" fill="#0969da"/>
+<text x="0" y="185" fill="#6e6e73" font-family="Consolas,Menlo,monospace" font-size="9.5" letter-spacing="1.5">BENGALURU, INDIA · 7.8 YEARS EXPERIENCE</text>
+<text x="900" y="185" text-anchor="end" fill="#0969da" font-family="Consolas,Menlo,monospace" font-size="9.5" letter-spacing="1.5">SENIOR .NET FULL STACK DEVELOPER · TCS</text>
 </svg>
