@@ -9,12 +9,11 @@
   .card{fill:var(--sf);stroke:var(--bd);stroke-width:1}
   .fr{fill:var(--grid);stroke:var(--sf);stroke-width:1}
   .hot{fill:var(--ac)}
-  .lbl{font-size:8.2px;fill:var(--tx)}
+  .lbl{font-size:7.8px;font-weight:400;fill:var(--tx)}
   .lbl.on{fill:var(--on)}
   .st{opacity:0;animation:stack 6s ease-out infinite}
   .glow{animation:pulse 1.4s ease-in-out infinite}
   .st:hover .fr{stroke:var(--ac);stroke-width:1.8;filter:brightness(1.08)}
-  .st:hover .lbl{font-weight:700}
   @keyframes stack{0%{opacity:0;transform:translateY(6px)}8%,88%{opacity:1;transform:none}100%{opacity:0}}
   @keyframes pulse{50%{opacity:.68}}
   @media(prefers-reduced-motion:reduce){.st{opacity:1;animation:none}.glow{animation:none}}
@@ -32,7 +31,7 @@
 <g class="st" style="animation-delay:.35s">
  <title>ASP.NET routing and controller stage. Hovering this frame in the standalone SVG highlights it.</title>
  <rect x="16" y="122" width="132" height="17" rx="2" class="fr hot glow"/>
- <text x="21" y="134" class="m lbl on">aspnet_controller</text>
+ <text x="21" y="134" class="m lbl on">ASP.NET</text>
 </g>
 <g class="st" style="animation-delay:.35s">
  <title>Middleware and request pipeline work.</title>
