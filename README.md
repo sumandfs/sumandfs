@@ -1,64 +1,62 @@
-<img src="assets/header.svg?v=3" alt="Suman Kumar Das — Senior .NET Full Stack Developer" width="100%" />
+<img src="assets/header.svg?v=4" alt="Suman Kumar Das — Senior .NET Full Stack Developer" width="100%" />
 
 <p>
-<a href="https://sumandfs.github.io/"><img src="assets/links/portfolio.svg?v=3" height="38" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/suman-kumar-das-9866311b6" target="_blank" rel="noopener noreferrer"><img src="assets/links/linkedin.svg?v=3" height="38" alt="LinkedIn" /></a>
-<a href="https://sumandfs.github.io/assets/Suman_Kumar_Das_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/links/resume.svg?v=3" height="38" alt="Résumé" /></a>
-<a href="mailto:dassumandas1991@gmail.com"><img src="assets/links/email.svg?v=3" height="38" alt="Email" /></a>
+<a href="https://sumandfs.github.io/"><img src="assets/links/portfolio.svg?v=4" height="36" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/suman-kumar-das-9866311b6" target="_blank" rel="noopener noreferrer"><img src="assets/links/linkedin.svg?v=4" height="36" alt="LinkedIn" /></a>
+<a href="https://sumandfs.github.io/assets/Suman_Kumar_Das_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/links/resume.svg?v=4" height="36" alt="Résumé" /></a>
+<a href="mailto:dassumandas1991@gmail.com"><img src="assets/links/email.svg?v=4" height="36" alt="Email" /></a>
 </p>
 
-<img src="assets/ticker.svg?v=3" alt="Current role, experience, core stack and engineering focus" width="100%" />
+<img src="assets/ticker.svg?v=4" alt="Current role, professional experience, core stack and engineering focus" width="100%" />
 
 I’m a **Senior .NET Full Stack Developer with 7.8 years of professional experience** building and supporting enterprise web applications, backend services and business-critical integrations.
 
-My professional foundation is in **C#, .NET Framework, ASP.NET, ASP.NET MVC, Web API, WCF/ASMX, ADO.NET and Microsoft SQL Server**. I have worked across application development, service integration, database development, production troubleshooting, testing and delivery.
+My core experience is in **C#, .NET Framework, ASP.NET, ASP.NET MVC, Web API, WCF/ASMX, ADO.NET and Microsoft SQL Server**. I work across the application lifecycle — from understanding business requirements and developing application modules to integrating systems, optimizing data access and supporting production delivery.
 
-<img src="assets/stats.svg?v=3" width="100%" alt="Professional snapshot: 7.8 years, four organizations and six enterprise project areas" />
+<img align="right" src="assets/architecture.svg?v=4" width="100%" alt="Conceptual enterprise .NET architecture with ASP.NET, C sharp, ADO.NET, SQL Server and SAP integration" />
 
-### Engineering experience
+### Engineering focus
 
-<img src="assets/architecture.svg?v=3" width="100%" alt="Conceptual .NET application architecture with SQL Server and SAP BW/ECC integration" />
+- **Enterprise application development** — C#, .NET Framework, ASP.NET, ASP.NET MVC and Web API.
+- **System integration** — WCF/ASMX, SOAP services and SAP BW/ECC data flows.
+- **Database engineering** — SQL Server, T-SQL, stored procedures, views and query optimization.
+- **Delivery & support** — IIS, Azure DevOps, Git, debugging, unit testing, UAT and production troubleshooting.
 
-- **Application engineering:** building and maintaining C# and ASP.NET modules in enterprise applications.
-- **System integration:** connecting business applications with SAP BW and SAP ECC through WCF/ASMX web services.
-- **Database engineering:** developing and optimizing SQL Server queries, stored procedures and views.
-- **Production delivery:** supporting debugging, issue analysis, UAT, deployments and Azure DevOps workflows.
+<br clear="right" />
 
-<img src="assets/timeline.svg?v=3" alt="Career timeline — Tata Consultancy Services, ITC Infotech, CHETU and CSM Technologies" width="100%" />
+<img src="assets/stats.svg?v=4" alt="Professional snapshot: 7.8 years of experience, four organizations and six enterprise project areas" width="100%" />
 
-### Building & delivering
+<img src="assets/timeline.svg?v=4" alt="Career timeline: Tata Consultancy Services, ITC Infotech, CHETU and CSM Technologies" width="100%" />
 
-Selected systems from my professional experience. Client-specific information is kept at a high level.
+### Selected enterprise work
 
-| Project | Organization | Work and contribution |
+| Project | Organization | Engineering contribution |
 |---|---|---|
-| **MyAssignments** | TCS | Three-tier enterprise application for business reporting; SAP BW/ECC integration using WCF/ASMX; SQL Server development and optimization; Azure DevOps build and deployment support. |
-| **KONE Manufacturing Execution System (DELMIA Apriso)** | ITC Infotech | Regression testing, UAT, SQL Server data validation and defect investigation for a manufacturing execution system. |
-| **Veptas Technology MGLD** | CHETU | C# and ASP.NET modules for a predictive analytics platform; technical design documentation and unit testing. |
-| **PHED Bihar** | CSM Technologies | Development and maintenance of public-sector application modules using C#, VB.NET, ASP.NET MVC and SQL Server. |
-| **TMIS Odisha** | CSM Technologies | Web and mobile system supporting tubewell installation, maintenance and grievance tracking. |
-| **I3MS Odisha** | CSM Technologies | Development and maintenance for the Integrated Mines and Minerals Management System. |
+| **MyAssignments** | TCS | Three-tier C# / ASP.NET business application; SAP BW/ECC integration through WCF/ASMX; SQL Server development and deployment support. |
+| **KONE MES** | ITC Infotech | DELMIA Apriso regression testing, UAT, SQL Server data validation and defect investigation. |
+| **Veptas Technology MGLD** | CHETU | C# and ASP.NET modules for predictive analytics; technical design documentation and unit testing. |
+| **PHED Bihar, TMIS Odisha & I3MS Odisha** | CSM Technologies | Development and maintenance of public-sector applications using C#, VB.NET, ASP.NET MVC and SQL Server. |
 
-### Stack
+### Technology stack
 
-<img src="assets/stack-grid.svg?v=3" width="100%" alt="Technology tiles: C#, .NET, ASP.NET, ASP.NET MVC, Web API, WCF/ASMX, ADO.NET, SQL Server, JavaScript, HTML5, CSS3, Bootstrap, jQuery, Azure DevOps, Git, IIS, SSMS and React.js." />
+<img src="assets/stack-grid.svg?v=4" width="100%" alt="Technology stack including C sharp, .NET, ASP.NET, Web API, WCF, ADO.NET, SQL Server, JavaScript, HTML, CSS, Bootstrap, jQuery, Azure DevOps and Git." />
 
-*React.js is a current learning focus; it is not presented as production experience.*
+*React.js is part of my current frontend learning and practice. My primary professional strength is .NET application engineering and SQL Server.*
 
 ### Code & repositories
 
-| Repository | Focus |
+| Repository | Description |
 |---|---|
 | [JavaScript practice](https://github.com/sumandfs/Javascript) | JavaScript fundamentals, examples and coding exercises. |
-| [Portfolio source](https://github.com/sumandfs/sumandfs.github.io) | Source code for my professional portfolio. |
+| [Portfolio website source](https://github.com/sumandfs/sumandfs.github.io) | Source code for my detailed professional portfolio. |
 
-My enterprise project work is primarily client-based; client source code and confidential implementation details are not published here.
+My enterprise project work is primarily client-based, so client source code and confidential implementation details are not published in these repositories.
 
-### Activity
+### GitHub activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumandfs&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true&amp;radius=8" alt="GitHub contribution activity graph for sumandfs" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumandfs&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true&amp;radius=8" alt="GitHub contribution activity for sumandfs" width="100%" />
 
-I enjoy working on enterprise backend systems, solving integration and data challenges, and continuously improving the quality, maintainability and reliability of software.
+For the full career timeline, project descriptions, education and contact details, visit my [professional portfolio](https://sumandfs.github.io/).
 
 <p>
 <a href="https://www.linkedin.com/in/suman-kumar-das-9866311b6">LinkedIn</a> ·
