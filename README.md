@@ -13,7 +13,7 @@ I’m a **Senior .NET Full Stack Developer with 7.8 years of professional experi
 
 My core experience is in **C#, .NET Framework, ASP.NET, ASP.NET MVC, Web API, WCF/ASMX, ADO.NET and Microsoft SQL Server**. I work across the application lifecycle — from understanding business requirements and developing application modules to integrating systems, optimizing data access and supporting production delivery.
 
-<img align="right" src="assets/architecture.svg?v=4" width="100%" alt="Conceptual enterprise .NET architecture with ASP.NET, C sharp, ADO.NET, SQL Server and SAP integration" />
+<img src="assets/architecture.svg?v=4" width="100%" alt="Conceptual enterprise .NET architecture with ASP.NET, C sharp, ADO.NET, SQL Server and SAP integration" />
 
 ### Engineering focus
 
@@ -22,7 +22,6 @@ My core experience is in **C#, .NET Framework, ASP.NET, ASP.NET MVC, Web API, WC
 - **Database engineering** — SQL Server, T-SQL, stored procedures, views and query optimization.
 - **Delivery & support** — IIS, Azure DevOps, Git, debugging, unit testing, UAT and production troubleshooting.
 
-<br clear="right" />
 
 <img src="assets/stats.svg?v=4" alt="Professional snapshot: 7.8 years of experience, four organizations and six enterprise project areas" width="100%" />
 
