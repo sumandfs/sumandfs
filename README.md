@@ -8,7 +8,7 @@
 </p>
 <img src="assets/ticker.svg?v=7" alt="Current role at TCS, core .NET and SQL Server stack, Bengaluru India" width="100%" />
 
-I build and support enterprise web applications using **C#, .NET, ASP.NET, Web API and SQL Server**. My work spans application development, SAP system integration, database programming, deployment support and production troubleshooting.
+I build and support enterprise web applications using C#, .NET, ASP.NET, Web API and SQL Server. My work spans application development, SAP system integration, database programming, deployment support and production troubleshooting.
 
 <img align="right" src="assets/appflow.svg?v=1" width="260" alt="Three-tier ASP.NET application flow with C sharp business logic, ADO.NET data access, SQL Server and WCF or ASMX SAP integration" />
 
@@ -70,7 +70,7 @@ Client source code is proprietary and is not published in these repositories. Th
 
 ### Stack
 
-<img src="assets/stack-grid.svg?v=11" width="100%" alt="Technology logos for C sharp, .NET, SQL Server, JavaScript, HTML5, CSS3, Bootstrap, jQuery, Azure, Azure DevOps, Git, GitHub, Visual Studio, Visual Studio Code and React.js" />
+<img src="assets/stack-grid.svg?v=12" width="888" alt="Technology logos for C sharp, .NET, SQL Server, JavaScript, HTML5, CSS3, Bootstrap, jQuery, Azure, Azure DevOps, Git, GitHub, Visual Studio, Visual Studio Code and React.js" />
 
 
 ### Languages
