@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="190" viewBox="0 0 260 190" role="img" aria-labelledby="title desc">
+<title id="title">Three-tier .NET application flow</title>
+<desc id="desc">ASP.NET presentation layer connects to C sharp business logic and ADO.NET data access, with SQL Server and WCF or ASMX integrations.</desc>
+<rect x=".5" y=".5" width="259" height="189" rx="9" fill="#f5f5f7" stroke="#d2d2d7"/>
+<text x="15" y="23" fill="#0969da" font-family="Consolas,Menlo,monospace" font-size="9" letter-spacing="1.5">APPLICATION FLOW</text>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="15" y="37" width="105" height="34" rx="5" fill="#fff" stroke="#c9d8ea"/>
+<rect x="15" y="37" width="4" height="34" rx="2" fill="#0969da"/>
+<text x="29" y="51" fill="#6e6e73" font-size="8">PRESENTATION</text><text x="29" y="63" fill="#1d1d1f" font-size="11" font-weight="700">ASP.NET</text>
+<path d="M67 72v13m-4-5 4 5 4-5" fill="none" stroke="#7b8794" stroke-width="1.4"/>
+<rect x="15" y="88" width="105" height="34" rx="5" fill="#fff" stroke="#c9d8ea"/>
+<rect x="15" y="88" width="4" height="34" rx="2" fill="#4f63e8"/>
+<text x="29" y="102" fill="#6e6e73" font-size="8">BUSINESS LOGIC</text><text x="29" y="114" fill="#1d1d1f" font-size="11" font-weight="700">C# · .NET</text>
+<path d="M67 123v13m-4-5 4 5 4-5" fill="none" stroke="#7b8794" stroke-width="1.4"/>
+<rect x="15" y="139" width="105" height="34" rx="5" fill="#fff" stroke="#c9d8ea"/>
+<rect x="15" y="139" width="4" height="34" rx="2" fill="#0d9488"/>
+<text x="29" y="153" fill="#6e6e73" font-size="8">DATA ACCESS</text><text x="29" y="165" fill="#1d1d1f" font-size="11" font-weight="700">ADO.NET</text>
+<path d="M121 156h17m-5-4 5 4-5 4" fill="none" stroke="#7b8794" stroke-width="1.4"/>
+<rect x="143" y="139" width="102" height="34" rx="5" fill="#fff" stroke="#c9d8ea"/>
+<text x="194" y="153" text-anchor="middle" fill="#6e6e73" font-size="8">DATABASE</text><text x="194" y="165" text-anchor="middle" fill="#1d1d1f" font-size="11" font-weight="700">SQL Server</text>
+<path d="M120 105h17V54h6m-5-4 5 4-5 4" fill="none" stroke="#7b8794" stroke-width="1.3" stroke-dasharray="3 3"/>
+<text x="145" y="45" fill="#0969da" font-size="8" font-weight="700">WCF / ASMX</text>
+<text x="145" y="60" fill="#6e6e73" font-size="8">SAP BW · ECC</text>
+</g>
+</svg>
