@@ -30,7 +30,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: sumandfs
-          cards: overview,momentum,lifetime,composition
+          cards: overview,contributions,lifetime,composition
           output-dir: assets/activity
           themes: light,dark
           palette: blue
