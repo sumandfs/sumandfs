@@ -1,25 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="190" viewBox="0 0 260 190" role="img" aria-labelledby="title desc">
-<title id="title">Three-tier .NET application flow</title>
-<desc id="desc">ASP.NET presentation layer connects to C sharp business logic and ADO.NET data access, with SQL Server and WCF or ASMX integrations.</desc>
-<rect x=".5" y=".5" width="259" height="189" rx="9" fill="#f5f5f7" stroke="#d2d2d7"/>
-<text x="15" y="23" fill="#0969da" font-family="Consolas,Menlo,monospace" font-size="9" letter-spacing="1.5">APPLICATION FLOW</text>
-<g font-family="Arial,Helvetica,sans-serif">
-<rect x="15" y="37" width="105" height="34" rx="5" fill="#fff" stroke="#c9d8ea"/>
-<rect x="15" y="37" width="4" height="34" rx="2" fill="#0969da"/>
-<text x="29" y="51" fill="#6e6e73" font-size="8">PRESENTATION</text><text x="29" y="63" fill="#1d1d1f" font-size="11" font-weight="700">ASP.NET</text>
-<path d="M67 72v13m-4-5 4 5 4-5" fill="none" stroke="#7b8794" stroke-width="1.4"/>
-<rect x="15" y="88" width="105" height="34" rx="5" fill="#fff" stroke="#c9d8ea"/>
-<rect x="15" y="88" width="4" height="34" rx="2" fill="#4f63e8"/>
-<text x="29" y="102" fill="#6e6e73" font-size="8">BUSINESS LOGIC</text><text x="29" y="114" fill="#1d1d1f" font-size="11" font-weight="700">C# · .NET</text>
-<path d="M67 123v13m-4-5 4 5 4-5" fill="none" stroke="#7b8794" stroke-width="1.4"/>
-<rect x="15" y="139" width="105" height="34" rx="5" fill="#fff" stroke="#c9d8ea"/>
-<rect x="15" y="139" width="4" height="34" rx="2" fill="#0d9488"/>
-<text x="29" y="153" fill="#6e6e73" font-size="8">DATA ACCESS</text><text x="29" y="165" fill="#1d1d1f" font-size="11" font-weight="700">ADO.NET</text>
-<path d="M121 156h17m-5-4 5 4-5 4" fill="none" stroke="#7b8794" stroke-width="1.4"/>
-<rect x="143" y="139" width="102" height="34" rx="5" fill="#fff" stroke="#c9d8ea"/>
-<text x="194" y="153" text-anchor="middle" fill="#6e6e73" font-size="8">DATABASE</text><text x="194" y="165" text-anchor="middle" fill="#1d1d1f" font-size="11" font-weight="700">SQL Server</text>
-<path d="M120 105h17V54h6m-5-4 5 4-5 4" fill="none" stroke="#7b8794" stroke-width="1.3" stroke-dasharray="3 3"/>
-<text x="145" y="45" fill="#0969da" font-size="8" font-weight="700">WCF / ASMX</text>
-<text x="145" y="60" fill="#6e6e73" font-size="8">SAP BW · ECC</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220" role="img" aria-labelledby="title desc">
+<title id="title">Animated .NET application request flow</title>
+<desc id="desc">Illustrative flow from ASP.NET presentation through C sharp and .NET business logic to ADO.NET and SQL Server, with a WCF or ASMX integration path to SAP BW and SAP ECC. Blue dots animate along the connectors to indicate movement through the system.</desc>
+<defs>
+  <marker id="arrow" markerWidth="5" markerHeight="5" refX="4" refY="2.5" orient="auto" markerUnits="userSpaceOnUse">
+    <path d="M0 0 L5 2.5 L0 5" fill="none" stroke="#8a929c" stroke-width="1"/>
+  </marker>
+  <style>
+    .mono{font-family:Consolas,Menlo,monospace}
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .panel{fill:#f5f5f7;stroke:#d2d2d7;stroke-width:1}
+    .node{fill:#fff;stroke:#cbd5e1;stroke-width:1}
+    .muted{fill:#737982}
+    .ink{fill:#20252b}
+    .blue{fill:#0969da}
+    .route{fill:none;stroke:#8a929c;stroke-width:1.4;marker-end:url(#arrow)}
+    .pulse{fill:#0969da}
+    .live{transform-origin:331px 24px;animation:beat 1.5s ease-in-out infinite}
+    @keyframes beat{50%{opacity:.35}}
+    @media(prefers-reduced-motion:reduce){.live{animation:none}.moving{display:none}.still{display:inline}}
+    .still{display:none}
+  </style>
+</defs>
+
+<rect x=".5" y=".5" width="359" height="219" rx="10" class="panel"/>
+<text x="16" y="25" class="mono muted" font-size="9" letter-spacing="1.6">APPLICATION REQUEST FLOW</text>
+<circle cx="331" cy="21" r="3.5" class="blue live"/>
+<text x="320" y="25" text-anchor="end" class="mono blue" font-size="7.5" letter-spacing="1">LIVE</text>
+
+<!-- Main request path -->
+<rect x="12" y="60" width="84" height="46" rx="6" class="node"/>
+<rect x="12" y="60" width="3.5" height="46" rx="1.5" fill="#0969da"/>
+<text x="23" y="77" class="mono muted" font-size="7">PRESENTATION</text>
+<text x="23" y="94" class="sans ink" font-size="11" font-weight="700">ASP.NET</text>
+
+<rect x="138" y="60" width="84" height="46" rx="6" class="node"/>
+<rect x="138" y="60" width="3.5" height="46" rx="1.5" fill="#5967e8"/>
+<text x="149" y="77" class="mono muted" font-size="7">BUSINESS LOGIC</text>
+<text x="149" y="94" class="sans ink" font-size="11" font-weight="700">C# · .NET</text>
+
+<rect x="264" y="60" width="84" height="46" rx="6" class="node"/>
+<rect x="264" y="60" width="3.5" height="46" rx="1.5" fill="#0d9488"/>
+<text x="275" y="77" class="mono muted" font-size="7">DATA ACCESS</text>
+<text x="275" y="94" class="sans ink" font-size="11" font-weight="700">ADO.NET</text>
+
+<!-- Integration and database endpoints -->
+<rect x="128" y="148" width="104" height="48" rx="6" class="node"/>
+<text x="140" y="164" class="mono muted" font-size="6.8">SYSTEM INTEGRATION</text>
+<text x="140" y="179" class="sans ink" font-size="10" font-weight="700">WCF / ASMX</text>
+<text x="140" y="190" class="mono muted" font-size="7">SAP BW · SAP ECC</text>
+
+<rect x="258" y="148" width="94" height="48" rx="6" class="node"/>
+<text x="270" y="164" class="mono muted" font-size="7">DATABASE</text>
+<text x="270" y="181" class="sans ink" font-size="10.5" font-weight="700">SQL Server</text>
+
+<!-- Connectors -->
+<path d="M96 83 H138" class="route"/>
+<path d="M222 83 H264" class="route"/>
+<path d="M180 106 V148" class="route"/>
+<path d="M306 106 V148" class="route"/>
+
+<!-- Moving request/data pulses -->
+<circle r="3.2" class="pulse moving">
+  <animateMotion dur="1.7s" repeatCount="indefinite" path="M96 83 L138 83"/>
+</circle>
+<circle r="3.2" class="pulse moving">
+  <animateMotion dur="1.9s" begin=".45s" repeatCount="indefinite" path="M222 83 L264 83"/>
+</circle>
+<circle r="3.2" fill="#0d9488" class="moving">
+  <animateMotion dur="1.8s" begin=".8s" repeatCount="indefinite" path="M180 106 L180 148"/>
+</circle>
+<circle r="3.2" fill="#0d9488" class="moving">
+  <animateMotion dur="1.8s" begin="1.15s" repeatCount="indefinite" path="M306 106 L306 148"/>
+</circle>
+<!-- Static indicators for reduced-motion preferences -->
+<circle cx="117" cy="83" r="2.6" class="pulse still"/>
+<circle cx="243" cy="83" r="2.6" class="pulse still"/>
+<circle cx="180" cy="127" r="2.6" fill="#0d9488" class="still"/>
+<circle cx="306" cy="127" r="2.6" fill="#0d9488" class="still"/>
 </svg>
