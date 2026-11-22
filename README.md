@@ -42,7 +42,31 @@ Client source code is proprietary and is not published in these repositories. Th
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumandfs&amp;bg_color=ffffff&amp;color=1d1d1f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true&amp;radius=4" alt="GitHub contribution activity for sumandfs" width="100%" />
+**Recent · Contribution trend and current-year profile**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity/momentum.dark.svg" />
+  <img alt="Recent contribution momentum: rolling 12-month contribution totals sampled over GitHub history" src="assets/activity/momentum.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity/overview.dark.svg" />
+  <img alt="Recent and lifetime GitHub profile statistics, including current-year contributions, stars, followers, merged pull requests, issues and public repositories" src="assets/activity/overview.light.svg" width="100%" />
+</picture>
+
+**All Time · Contribution history by year**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity/lifetime.dark.svg" />
+  <img alt="All-time GitHub contribution history, with one calendar row per year" src="assets/activity/lifetime.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity/composition.dark.svg" />
+  <img alt="Year-by-year contribution composition across commits, pull requests, issues, reviews and private contributions" src="assets/activity/composition.light.svg" width="100%" />
+</picture>
+
+*These cards are generated from GitHub contribution data and refreshed automatically each day.*
 
 ### Stack
 
