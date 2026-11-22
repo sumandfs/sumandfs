@@ -21,7 +21,7 @@ I build and support enterprise web applications using C#, .NET, ASP.NET, Web API
 
 <br clear="right" />
 
-<img src="assets/timeline.svg?v=7" alt="Career timeline: Tata Consultancy Services, ITC Infotech, CHETU and CSM Technologies" width="100%" />
+<img src="assets/timeline.svg?v=8" alt="Career timeline: Tata Consultancy Services, ITC Infotech, CHETU and CSM Technologies" width="100%" />
 
 ### Building
 
