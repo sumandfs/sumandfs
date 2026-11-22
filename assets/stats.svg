@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="Professional snapshot: 7.8 years experience, four organizations and six enterprise project areas">
-<rect x=".5" y=".5" width="1199" height="91" rx="12" fill="#f8fafc" stroke="#d8e1eb"/>
-<g font-family="Segoe UI,Arial">
-<text x="46" y="36" fill="#0969da" font-size="25" font-weight="750">7.8</text><text x="46" y="63" fill="#64748b" font-size="12">Years of experience</text>
-<line x1="388" y1="18" x2="388" y2="74" stroke="#d7e0ea"/>
-<text x="432" y="36" fill="#0969da" font-size="25" font-weight="750">4</text><text x="432" y="63" fill="#64748b" font-size="12">Organizations</text>
-<line x1="762" y1="18" x2="762" y2="74" stroke="#d7e0ea"/>
-<text x="806" y="36" fill="#0969da" font-size="25" font-weight="750">6</text><text x="806" y="63" fill="#64748b" font-size="12">Enterprise project areas</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="Professional snapshot: 7.8 years of experience, four organizations, six project areas, and a seven-person team at TCS">
+<rect x=".5" y=".5" width="1199" height="111" rx="13" fill="#f8fafc" stroke="#d9e2ed"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="45" y="46" fill="#1769d2" font-size="29" font-weight="750">7.8</text><text x="45" y="77" fill="#63758c" font-size="12">Years of experience</text>
+<line x1="315" y1="20" x2="315" y2="91" stroke="#d7e0ea"/>
+<text x="355" y="46" fill="#1769d2" font-size="29" font-weight="750">4</text><text x="355" y="77" fill="#63758c" font-size="12">Organizations</text>
+<line x1="600" y1="20" x2="600" y2="91" stroke="#d7e0ea"/>
+<text x="640" y="46" fill="#1769d2" font-size="29" font-weight="750">6</text><text x="640" y="77" fill="#63758c" font-size="12">Enterprise project areas</text>
+<line x1="900" y1="20" x2="900" y2="91" stroke="#d7e0ea"/>
+<text x="940" y="46" fill="#1769d2" font-size="29" font-weight="750">7</text><text x="940" y="77" fill="#63758c" font-size="12">Developers in TCS team</text>
+</g>
+</svg>
