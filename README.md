@@ -92,4 +92,3 @@ The graphic is illustrative, not a measured CPU benchmark. Open it directly to i
 
 <br clear="all" />
 
-I enjoy solving practical engineering problems, improving existing applications and learning through hands-on development. Feel free to connect through [LinkedIn](https://www.linkedin.com/in/suman-kumar-das-9866311b6) or my [professional portfolio](https://sumandfs.github.io/).
