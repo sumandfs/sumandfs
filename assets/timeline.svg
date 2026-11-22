@@ -1,38 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="448" viewBox="0 0 900 448" role="img" aria-labelledby="title desc">
-<title id="title">Work timeline — four organizations</title>
-<desc id="desc">TCS, ITC Infotech, CHETU and CSM Technologies from July 2018 to present.</desc>
-<rect x=".5" y=".5" width="899" height="447" rx="8" fill="#fff" stroke="#d2d2d7"/>
-<text x="24" y="31" fill="#0969da" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing="2">WORK TIMELINE · 2018 — PRESENT</text>
-<line x1="197" y1="61" x2="197" y2="420" stroke="#c7d4e3" stroke-width="2"/>
-<g font-family="Arial,Helvetica,sans-serif">
-<text x="24" y="83" fill="#0969da" font-family="Consolas,Menlo,monospace" font-size="10" font-weight="700">MAR 2022 — PRESENT</text>
-<circle cx="197" cy="78" r="8" fill="#0969da" stroke="#fff" stroke-width="3"/>
-<rect x="218" y="52" width="656" height="84" rx="7" fill="#f5f9ff" stroke="#d7e5f6"/>
-<rect x="218" y="52" width="4" height="84" rx="2" fill="#0969da"/>
-<rect x="238" y="65" width="62" height="17" rx="8" fill="#e4efff"/>
-<text x="269" y="77" text-anchor="middle" fill="#0969da" font-size="8" font-weight="700">CURRENT</text>
-<text x="314" y="78" fill="#1d1d1f" font-size="14" font-weight="700">Tata Consultancy Services (TCS)</text>
-<text x="238" y="101" fill="#0969da" font-size="11" font-weight="700">System Engineer · .NET Developer · Bengaluru</text>
-<text x="238" y="120" fill="#6e6e73" font-size="10">MyAssignments · ASP.NET · WCF/ASMX · SQL Server · Azure DevOps</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
+<title id="title">Career timeline — Suman Kumar Das</title>
+<desc id="desc">Professional experience at Tata Consultancy Services, ITC Infotech, CHETU India and CSM Technologies from July 2018 to present.</desc>
+<rect width="900" height="390" fill="#ffffff"/>
+<line x1="250" y1="34" x2="250" y2="357" stroke="#d5d9df" stroke-width="1.6"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="20" y="55" fill="#777b82" font-family="Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.1">MAR 2022 — PRESENT</text>
+  <circle cx="250" cy="48" r="6.5" fill="#0969da"/>
+  <text x="280" y="54" fill="#24292f" font-size="15.5" font-weight="600">Tata Consultancy Services (TCS)</text>
+  <text x="280" y="77" fill="#0969da" font-family="Consolas, Menlo, monospace" font-size="10.2" letter-spacing="1.1">SYSTEM ENGINEER · .NET DEVELOPER · BENGALURU</text>
+  <text x="280" y="99" fill="#777b82" font-family="Consolas, Menlo, monospace" font-size="10.5">MyAssignments · ASP.NET · WCF/ASMX · SQL Server · Azure DevOps</text>
 
-<text x="24" y="176" fill="#0969da" font-family="Consolas,Menlo,monospace" font-size="10" font-weight="700">APR 2021 — JAN 2022</text>
-<circle cx="197" cy="171" r="7" fill="#fff" stroke="#7a91ac" stroke-width="2.5"/>
-<text x="224" y="169" fill="#1d1d1f" font-size="14" font-weight="700">ITC Infotech India Ltd.</text>
-<text x="224" y="190" fill="#0969da" font-size="11" font-weight="700">Associate IT Consultant · Pune</text>
-<text x="224" y="209" fill="#6e6e73" font-size="10">KONE MES (DELMIA Apriso) · Regression testing · UAT · SQL validation</text>
-<line x1="218" y1="225" x2="874" y2="225" stroke="#e5e5ea"/>
+  <text x="20" y="149" fill="#777b82" font-family="Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.1">APR 2021 — JAN 2022</text>
+  <circle cx="250" cy="142" r="6" fill="#ffffff" stroke="#b8bec7" stroke-width="2"/>
+  <text x="280" y="148" fill="#24292f" font-size="15.5" font-weight="600">ITC Infotech India Ltd.</text>
+  <text x="280" y="171" fill="#0969da" font-family="Consolas, Menlo, monospace" font-size="10.2" letter-spacing="1.1">ASSOCIATE IT CONSULTANT · PUNE</text>
+  <text x="280" y="193" fill="#777b82" font-family="Consolas, Menlo, monospace" font-size="10.5">KONE MES (DELMIA Apriso) · Regression testing · UAT · SQL validation</text>
 
-<text x="24" y="268" fill="#0969da" font-family="Consolas,Menlo,monospace" font-size="10" font-weight="700">OCT 2020 — FEB 2021</text>
-<circle cx="197" cy="263" r="7" fill="#fff" stroke="#7a91ac" stroke-width="2.5"/>
-<text x="224" y="261" fill="#1d1d1f" font-size="14" font-weight="700">CHETU India Pvt. Ltd.</text>
-<text x="224" y="282" fill="#0969da" font-size="11" font-weight="700">Software Engineer · Noida</text>
-<text x="224" y="301" fill="#6e6e73" font-size="10">Veptas Technology MGLD · C# · ASP.NET · Predictive analytics</text>
-<line x1="218" y1="317" x2="874" y2="317" stroke="#e5e5ea"/>
+  <text x="20" y="243" fill="#777b82" font-family="Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.1">OCT 2020 — FEB 2021</text>
+  <circle cx="250" cy="236" r="6" fill="#ffffff" stroke="#b8bec7" stroke-width="2"/>
+  <text x="280" y="242" fill="#24292f" font-size="15.5" font-weight="600">CHETU India Pvt. Ltd.</text>
+  <text x="280" y="265" fill="#0969da" font-family="Consolas, Menlo, monospace" font-size="10.2" letter-spacing="1.1">SOFTWARE ENGINEER · NOIDA</text>
+  <text x="280" y="287" fill="#777b82" font-family="Consolas, Menlo, monospace" font-size="10.5">Veptas Technology MGLD · C# · ASP.NET · Predictive analytics</text>
 
-<text x="24" y="360" fill="#0969da" font-family="Consolas,Menlo,monospace" font-size="10" font-weight="700">JUL 2018 — SEP 2020</text>
-<circle cx="197" cy="355" r="7" fill="#fff" stroke="#7a91ac" stroke-width="2.5"/>
-<text x="224" y="353" fill="#1d1d1f" font-size="14" font-weight="700">CSM Technologies</text>
-<text x="224" y="374" fill="#0969da" font-size="11" font-weight="700">Software Engineer · Bhubaneswar</text>
-<text x="224" y="393" fill="#6e6e73" font-size="10">PHED Bihar · TMIS Odisha · I3MS Odisha · ASP.NET MVC</text>
+  <text x="20" y="337" fill="#777b82" font-family="Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.1">JUL 2018 — SEP 2020</text>
+  <circle cx="250" cy="330" r="6" fill="#ffffff" stroke="#b8bec7" stroke-width="2"/>
+  <text x="280" y="336" fill="#24292f" font-size="15.5" font-weight="600">CSM Technologies</text>
+  <text x="280" y="359" fill="#0969da" font-family="Consolas, Menlo, monospace" font-size="10.2" letter-spacing="1.1">SOFTWARE ENGINEER · BHUBANESWAR</text>
+  <text x="280" y="381" fill="#777b82" font-family="Consolas, Menlo, monospace" font-size="10.5">PHED Bihar · TMIS Odisha · I3MS Odisha · ASP.NET MVC</text>
 </g>
 </svg>
