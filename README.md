@@ -70,7 +70,7 @@ Client source code is proprietary and is not published in these repositories. Th
 
 ### Stack
 
-<img src="assets/stack-grid.svg?v=10" width="100%" alt="Technology logos for C sharp, .NET, SQL Server, JavaScript, HTML5, CSS3, Bootstrap, jQuery, Azure, Azure DevOps, Git, GitHub, Visual Studio, Visual Studio Code and React.js" />
+<img src="assets/stack-grid.svg?v=11" width="100%" alt="Technology logos for C sharp, .NET, SQL Server, JavaScript, HTML5, CSS3, Bootstrap, jQuery, Azure, Azure DevOps, Git, GitHub, Visual Studio, Visual Studio Code and React.js" />
 
 
 ### Languages
