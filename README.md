@@ -1,10 +1,10 @@
 <img src="assets/header.svg?v=8" alt="SUMAN KUMAR DAS — Senior .NET Full Stack Developer" width="100%" />
 
 <p>
-<a href="https://sumandfs.github.io/"><img src="assets/links/portfolio.svg?v=7" height="32" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/suman-kumar-das-9866311b6" target="_blank" rel="noopener noreferrer"><img src="assets/links/linkedin.svg?v=7" height="32" alt="LinkedIn" /></a>
-<a href="https://github.com/sumandfs" target="_blank" rel="noopener noreferrer"><img src="assets/links/github.svg?v=7" height="32" alt="GitHub" /></a>
-<a href="mailto:dassumandas1991@gmail.com"><img src="assets/links/email.svg?v=7" height="32" alt="Email" /></a>
+<a href="https://sumandfs.github.io/"><img src="assets/links/portfolio.svg?v=8" height="32" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/suman-kumar-das-9866311b6" target="_blank" rel="noopener noreferrer"><img src="assets/links/linkedin.svg?v=8" height="32" alt="LinkedIn" /></a>
+<a href="https://github.com/sumandfs" target="_blank" rel="noopener noreferrer"><img src="assets/links/github.svg?v=8" height="32" alt="GitHub" /></a>
+<a href="mailto:dassumandas1991@gmail.com"><img src="assets/links/email.svg?v=8" height="32" alt="Email" /></a>
 </p>
 <img src="assets/ticker.svg?v=7" alt="Current role at TCS, core .NET and SQL Server stack, Bengaluru India" width="100%" />
 
