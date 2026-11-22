@@ -82,11 +82,11 @@ Client source code is proprietary and is not published in these repositories. Th
 
 ---
 
-<img align="left" src="assets/hotpath.svg?v=1" width="320" alt="Illustrative .NET application hot path showing ASP.NET, C sharp business logic, ADO.NET, SQL Server and a WCF or ASMX integration branch" />
+<a href="https://raw.githubusercontent.com/sumandfs/sumandfs/main/assets/hotpath.svg" target="_blank" rel="noopener noreferrer"><img align="left" src="assets/hotpath.svg?v=2" width="320" alt="Animated .NET application hot path showing ASP.NET, C sharp business logic, ADO.NET, SQL Server and WCF or ASMX integration" /></a>
 
 I approach enterprise application issues by tracing the request across the full execution path — from the ASP.NET entry point and C# business logic through ADO.NET and SQL Server. For integrations, the flow also connects through WCF/ASMX services to SAP BW and SAP ECC.
 
-This graphic is a conceptual view of that application path, not a runtime benchmark or a claim of measured CPU percentages. Actual hot spots are identified from application logs, SQL execution plans and profiler traces.
+The animated bars illustrate the request stages; their widths are not runtime measurements. Select the graphic to open the standalone SVG, where individual frames can be hovered for descriptions.
 
 <br clear="all" />
 
