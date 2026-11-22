@@ -10,7 +10,7 @@
 
 I build and support enterprise web applications using C#, .NET, ASP.NET, Web API and SQL Server. My work spans application development, SAP system integration, database programming, deployment support and production troubleshooting.
 
-<img align="right" src="assets/appflow.svg?v=1" width="260" alt="Three-tier ASP.NET application flow with C sharp business logic, ADO.NET data access, SQL Server and WCF or ASMX SAP integration" />
+<img align="right" src="assets/appflow.svg?v=2" width="320" alt="Animated .NET request flow from ASP.NET through C sharp business logic and ADO.NET to SQL Server, with WCF or ASMX integration to SAP BW and SAP ECC" />
 
 ### What that looks like in practice
 
@@ -79,14 +79,3 @@ Client source code is proprietary and is not published in these repositories. Th
 <img src="assets/lang/english.svg?v=2" height="52" alt="English" />
 <img src="assets/lang/hindi.svg?v=2" height="52" alt="Hindi" />
 </p>
-
----
-
-<a href="https://raw.githubusercontent.com/sumandfs/sumandfs/main/assets/hotpath.svg" target="_blank" rel="noopener noreferrer">
-  <img align="left" src="assets/hotpath.svg?v=4" width="240" alt="Animated .NET request flow across ASP.NET, C sharp services, ADO.NET, SQL Server and WCF or ASMX integrations" />
-</a>
-
-I work across the ASP.NET request pipeline, C# services, ADO.NET and SQL Server, with WCF/ASMX integrations connecting enterprise systems such as SAP BW and SAP ECC.
-
-<br clear="all" />
-
