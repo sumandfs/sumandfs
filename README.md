@@ -82,11 +82,13 @@ Client source code is proprietary and is not published in these repositories. Th
 
 ---
 
-<img align="left" src="assets/hotpath.gif?v=1" width="240" alt="Animated .NET CPU profile-style hot path showing ASP.NET, C sharp business logic, ADO.NET, SQL Server and WCF/ASMX integration" />
+<a href="https://raw.githubusercontent.com/sumandfs/sumandfs/main/assets/hotpath.svg" target="_blank" rel="noopener noreferrer">
+  <img align="left" src="assets/hotpath.svg?v=3" width="320" alt="Animated .NET application flow showing ASP.NET, C sharp business logic, ADO.NET, SQL Server and WCF or ASMX integration" />
+</a>
 
-I approach enterprise application issues by tracing the request across the full execution path — from the ASP.NET entry point and C# business logic through ADO.NET and SQL Server. For integrations, the flow also connects through WCF/ASMX services to SAP BW and SAP ECC.
+I approach enterprise application issues by tracing a request through the execution path — from the ASP.NET entry point and C# business logic through ADO.NET and SQL Server. For integrations, the flow also connects through WCF/ASMX services to SAP BW and SAP ECC.
 
-The bars build upward from the request entry through the .NET execution path, then the blue stages pulse as the sequence repeats. This is an illustrative application flow, not a measured CPU profile.
+The graphic is illustrative, not a measured CPU benchmark. Open it directly to inspect the animated stages and their hover descriptions.
 
 <br clear="all" />
 
