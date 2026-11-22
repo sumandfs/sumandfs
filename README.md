@@ -1,4 +1,4 @@
-<img src="assets/header.svg?v=7" alt="SUMAN KUMAR DAS — Senior .NET Full Stack Developer" width="100%" />
+<img src="assets/header.svg?v=8" alt="SUMAN KUMAR DAS — Senior .NET Full Stack Developer" width="100%" />
 
 <p>
 <a href="https://sumandfs.github.io/"><img src="assets/links/portfolio.svg?v=7" height="32" alt="Portfolio" /></a>
