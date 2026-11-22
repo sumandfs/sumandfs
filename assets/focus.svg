@@ -1,18 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="244" viewBox="0 0 340 244" role="img" aria-labelledby="t">
-<title id="t">Professional focus — enterprise .NET engineering</title>
-<rect x=".5" y=".5" width="339" height="243" rx="15" fill="#f8fbff" stroke="#d8e3ef"/>
-<text x="22" y="33" fill="#087e9b" font-family="Segoe UI,Arial" font-size="10" font-weight="800" letter-spacing="2">ENGINEERING FOCUS</text>
-<text x="22" y="65" fill="#172334" font-family="Segoe UI,Arial" font-size="19" font-weight="750">Building dependable</text>
-<text x="22" y="89" fill="#172334" font-family="Segoe UI,Arial" font-size="19" font-weight="750">enterprise applications</text>
-<line x1="22" y1="109" x2="318" y2="109" stroke="#dce5ee"/>
-<g font-family="Segoe UI,Arial">
-  <text x="22" y="137" fill="#64748b" font-size="11">Application development</text>
-  <text x="318" y="137" fill="#243449" font-size="11" text-anchor="end" font-weight="700">C# · ASP.NET</text>
-  <line x1="22" y1="149" x2="318" y2="149" stroke="#e5ebf2"/>
-  <text x="22" y="174" fill="#64748b" font-size="11">System integration</text>
-  <text x="318" y="174" fill="#243449" font-size="11" text-anchor="end" font-weight="700">WCF · ASMX · SAP</text>
-  <line x1="22" y1="186" x2="318" y2="186" stroke="#e5ebf2"/>
-  <text x="22" y="211" fill="#64748b" font-size="11">Data engineering</text>
-  <text x="318" y="211" fill="#243449" font-size="11" text-anchor="end" font-weight="700">SQL Server · T-SQL</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="252" viewBox="0 0 360 252" role="img" aria-labelledby="title">
+<title id="title">Enterprise .NET engineering profile</title>
+<rect x=".5" y=".5" width="359" height="251" rx="15" fill="#171b26" stroke="#364154"/>
+<rect x="1" y="1" width="358" height="42" rx="14" fill="#202635"/>
+<path d="M1 42h358" stroke="#3a4659"/>
+<circle cx="20" cy="22" r="5" fill="#fb7185"/><circle cx="37" cy="22" r="5" fill="#fbbf24"/><circle cx="54" cy="22" r="5" fill="#34d399"/>
+<g font-family="Consolas,ui-monospace,monospace" font-size="13">
+<text x="22" y="75" fill="#54c8ff">$</text><text x="42" y="75" fill="#f1f5f9">profile --summary</text>
+<text x="22" y="108" fill="#c5a3ff">role:</text><text x="92" y="108" fill="#82e6a4">Senior .NET Full Stack Developer</text>
+<text x="22" y="139" fill="#c5a3ff">build:</text><text x="92" y="139" fill="#82e6a4">C# · ASP.NET · Web API</text>
+<text x="22" y="170" fill="#c5a3ff">data:</text><text x="92" y="170" fill="#82e6a4">ADO.NET · SQL Server</text>
+<text x="22" y="201" fill="#c5a3ff">connect:</text><text x="92" y="201" fill="#82e6a4">WCF · ASMX · SAP BW/ECC</text>
+<text x="22" y="231" fill="#7c8ca5" font-size="10">ENTERPRISE APPLICATION ENGINEERING</text>
 </g>
 </svg>
