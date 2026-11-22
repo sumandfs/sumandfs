@@ -42,11 +42,11 @@ Client source code is proprietary and is not published in these repositories. Th
 
 ### Activity
 
-**Recent · Contribution trend and current-year profile**
+**Recent · Last 12 Months**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity/momentum.dark.svg" />
-  <img alt="Recent contribution momentum: rolling 12-month contribution totals sampled over GitHub history" src="assets/activity/momentum.light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity/contributions.dark.svg" />
+  <img alt="Recent contribution calendar for the last 12 months, including current and longest contribution streaks" src="assets/activity/contributions.light.svg" width="100%" />
 </picture>
 
 <picture>
